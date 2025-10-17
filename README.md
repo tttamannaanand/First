@@ -1,3 +1,1 @@
-this is the folder for the session
-
-# First
+print ("this is the third file")
